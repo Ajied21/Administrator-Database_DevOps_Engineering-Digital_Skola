@@ -1,7 +1,8 @@
 <img src="./image/mysql-vs-postgresql.jpg" alt="Architecture Overview" width="350"/>
 
-# Struktur Direktori
+## Project Structure
 
+```
 project/
 │── mysql/
 │   ├── Dockerfile
@@ -10,5 +11,10 @@ project/
 │── postgres/
 │   ├── Dockerfile
 │   └── init.sql
+│   └── darat.sql
+│   └── laut.sql
+│   └── elang.sql
 │
 └── docker-compose.yml
+```
+
