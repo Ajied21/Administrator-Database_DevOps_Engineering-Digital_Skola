@@ -1,4 +1,4 @@
-<img src="./image/mysql-vs-postgresql.jpg" alt="Architecture Overview" width="350"/>
+<img src="./image/mysql-vs-postgresql.jpg" alt="Architecture Overview" width="500"/>
 
 ## Project Structure
 
