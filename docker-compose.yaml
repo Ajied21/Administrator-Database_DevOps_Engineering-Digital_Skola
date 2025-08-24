@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  mysql:
+    build: ./mysql
+    container_name: mysql_lab
+    restart: always
+    ports:
+      - "3307:3306"
+
+  postgres:
+    build: ./postgres
+    container_name: postgres_lab
+    restart: always
+    ports:
+      - "5433:5432"

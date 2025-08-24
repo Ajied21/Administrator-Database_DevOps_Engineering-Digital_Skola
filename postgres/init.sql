@@ -1,0 +1,8 @@
+CREATE DATABASE darat;
+CREATE DATABASE laut;
+CREATE DATABASE udara;
+
+CREATE ROLE macan LOGIN PASSWORD 'password_macan';
+CREATE ROLE paus LOGIN PASSWORD 'password_paus';
+CREATE ROLE elang LOGIN PASSWORD 'password_elang';
+
