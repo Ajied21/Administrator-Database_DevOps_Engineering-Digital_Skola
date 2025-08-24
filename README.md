@@ -3,12 +3,21 @@
 # Struktur Direktori
 
 project/
+
 │── mysql/
+
 │   ├── Dockerfile
+
 │   └── init.sql
+
 │
+
 │── postgres/
+
 │   ├── Dockerfile
+
 │   └── init.sql
+
 │
+
 └── docker-compose.yml
